@@ -1,1 +1,3 @@
-# BITS_MLOPS_assingment1
+# MLOpsSession2BITS
+
+### This is demo changes for Git Repo
